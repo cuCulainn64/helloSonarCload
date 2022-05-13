@@ -10,6 +10,11 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
+	
+	<properties>
+  <sonar.organization>cuculainn64</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 	<dependencies>
 <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
